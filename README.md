@@ -193,18 +193,6 @@ Show pgAdmin tables (interaction + hcp)
 
 End
 
-📝 Notes
-
-Project designed to match assignment instructions precisely
-
-Modularized for future extension into Task-2
-
-Clean, well-commented codebase
-
-No external dependencies required for mock mode
-
-FastAPI & React are decoupled for flexibility
-
 📌 License
 
 This project is created exclusively as part of the AIVOA Task-1 Selection Assignment
